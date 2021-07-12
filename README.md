@@ -1,4 +1,4 @@
-![Banner](https://github.com/Januar-Martinez/Januar-Martinez/blob/main/Banner.png)
+![Banner]()
 
 ### Herramientas que manejo
 * MySQL Workbench
