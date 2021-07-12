@@ -2,7 +2,7 @@
 
 ### Herramientas que manejo
 * MySQL Workbench
-* Java (NetBeans)
+* Java NetBeans
 * HTML
 * PHp
 
