@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAEkBLl7DYo/Q2n1kvaSBXe0OmKJAiKG5Q/view?utm_content=DAEkBLl7DYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 ### Herramientas que manejo
 * MySQL Workbench
