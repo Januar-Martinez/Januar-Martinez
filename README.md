@@ -1,4 +1,14 @@
-### Hi there 👋
+### Herramientas que manejo
+* MySQL Workbench
+* Java (NetBeans)
+* HTML
+* PHp
+
+
+
+
+
+
 
 <!--
 **Januar-Martinez/Januar-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
