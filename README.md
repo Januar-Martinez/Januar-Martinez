@@ -4,7 +4,7 @@
 * MySQL Workbench
 * Java NetBeans
 * HTML
-* PHp
+* PHP
 
 
 
