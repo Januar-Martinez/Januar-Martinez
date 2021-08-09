@@ -2,8 +2,6 @@
 
 ## Técnico de Programación de Software en proceso...
 
-### Soy una persona muy dedica y entregada en cada una de las labores que se asignan, soy responsable, respetuoso, leal, emprendedor con ideas innovadoras con gran disposición a los desafíos y nuevos proyectos, el trabajo en equipo es algo que considero muy fundamental.
-
 ### Herramientas que manejo
 * MySQL Workbench
 * Java NetBeans
