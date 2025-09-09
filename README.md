@@ -1,4 +1,4 @@
-![Banner](https://github.com/Januar-Martinez/Januar-Martinez/blob/main/Banner para Linkedin Licenciada Marketing Minimalista Beige.png)
+![Banner](https://github.com/Januar-Martinez/Januar-Martinez/blob/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png)
 
 # 👋 Hola, soy Januar Martinez  
 
