@@ -1,46 +1,70 @@
 ![Banner](https://github.com/Januar-Martinez/Januar-Martinez/blob/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png)
 
-# 👋 Hola, soy Januar Martinez  
+# 👋 ¡Hola! Soy **Januar Martínez**  
 
-🎯 **Tecnólogo en Desarrollo de Software (en curso, ITM)** y **Técnico en Programación de Software (SENA)**.  
-💻 Apasionado por el **desarrollo de software, automatización de procesos y aplicaciones web**.  
+🎯 **Tecnólogo en Desarrollo de Software (ITM, 2025)**  
+💻 Apasionado por el **desarrollo backend, APIs, automatización de procesos y aplicaciones web**.  
+
+Me destaco por mi aprendizaje rápido, adaptabilidad y gusto por construir soluciones que aporten valor mediante buenas prácticas de desarrollo.
 
 ---
 
 ## 🚀 Tecnologías y herramientas
 
-- **Lenguajes y frameworks:** C# / .NET, JavaScript, React, Angular, HTML, CSS, PHP, Java  
-- **Bases de datos y servidores:** SQL Server, MySQL, SharePoint  
-- **Automatización y productividad:** Power Apps, Power Automate  
-- **Arquitectura y control:** Diseño de APIs (DDD), Git / Control de versiones, Windows Forms  
+### 🔹 Lenguajes & Frameworks
+- C#, .NET  
+- Java, Python  
+- JavaScript, React, Angular  
+- HTML, CSS  
+
+### 🔹 Bases de datos & Servicios
+- SQL Server, PostgreSQL  
+- SharePoint  
+
+### 🔹 Automatización & Productividad
+- Power Apps  
+- Power Automate  
+- Microsoft Teams  
+
+### 🔹 Arquitectura & Control de versiones
+- API REST, DDD  
+- Git / GitHub  
+- Windows Forms  
 
 ---
 
-## 📌 Experiencia destacada
+## 📌 Experiencia Destacada
 
-- Desarrollo de una **API bajo arquitectura DDD** para gestión interna.  
-- Creación de aplicación de escritorio con **WebView** para uso operativo.  
-- **Automatización de procesos** con Power Automate y gestión documental en SharePoint.  
-- Integración de flujos en **Microsoft Teams** para notificaciones automáticas.  
-- Desarrollo de **interfaces web modernas** con React y Angular.  
-
----
-
-## 🎓 Educación y certificaciones
-
-- **Tecnólogo en Desarrollo de Software** – ITM *(2022 – En curso, finalización 2025)*  
-- **Técnico en Programación de Software** – SENA *(2022)*  
-- **Master en Programación Web desde Cero** – Udemy *(2025, 12.5h)*  
+- Desarrollo de **APIs bajo arquitectura DDD** para optimizar procesos internos.  
+- Implementación de aplicación de escritorio con **WebView** para carga e integración de formularios.  
+- **Automatización de procesos** empresariales mediante Power Automate.  
+- Gestión documental e integración de flujos con **SharePoint** y **Microsoft Teams**.  
+- Construcción de **interfaces web modernas** con React y Angular.  
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🎓 Educación & Certificaciones
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/januarmartinezpalacios/)  
-- 📧 [Email](mailto:januarpalacio5@gmail.com)  
+- **Tecnólogo en Desarrollo de Software** — ITM (2022–2025)  
+- **Técnico en Programación de Software** — SENA (2022)  
+
+### Cursos relevantes
+- Universidad Python — De Cero a Experto (90+ h, Udemy)  
+- Máster en Programación Web desde Cero (Udemy)  
+- React 19 + ASP.NET Core 9 (Udemy)  
+- Angular 19 + ASP.NET Core 9 (Udemy)  
 
 ---
-⭐️ *Siempre abierto a aprender, colaborar y participar en proyectos innovadores.*
+
+## 📫 Conéctate conmigo
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/januarmartinezpalacios/)  
+- ✉️ [Email](mailto:januarpalacio5@gmail.com)  
+
+---
+
+⭐ _Siempre abierto a aprender, colaborar y participar en proyectos innovadores._
+
 
 
 
