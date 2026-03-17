@@ -13,7 +13,7 @@ Me destaco por mi aprendizaje rápido, adaptabilidad y gusto por construir soluc
 
 ### 🔹 Lenguajes & Frameworks
 - C#, .NET  
-- Java, Python  
+- Java, Python, Node.js  
 - JavaScript, React, Angular  
 - HTML, CSS  
 
