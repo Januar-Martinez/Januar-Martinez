@@ -35,8 +35,7 @@ Me destaco por mi aprendizaje rápido, adaptabilidad y gusto por construir soluc
 
 ## 📌 Experiencia Destacada
 
-- Desarrollo de **APIs bajo arquitectura DDD** para optimizar procesos internos.  
-- Implementación de aplicación de escritorio con **WebView** para carga e integración de formularios.  
+- Desarrollo de **APIs con C#, Python y Node.js** para optimizar procesos internos.   
 - **Automatización de procesos** empresariales mediante Power Automate.  
 - Gestión documental e integración de flujos con **SharePoint** y **Microsoft Teams**.  
 - Construcción de **interfaces web modernas** con React y Angular.  
